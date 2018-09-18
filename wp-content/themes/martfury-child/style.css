@@ -1,0 +1,75 @@
+/*
+Theme Name: Martfury Child
+Theme URI: http://drfuri.com/unero
+Author: DrFuri
+Author URI: http://drfuri.com
+Description: Martfury Child Theme.
+Version: 1.0
+License: GNU General Public License v2+
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: martfury
+Domain Path: /lang/
+Tags: one-column, two-columns, left-sidebar, right-sidebar, full-width-template, post-formats, theme-options, threaded-comments, translation-ready
+Template: martfury
+*/
+@import url("../martfury/style.css");
+#icon-wishlist-contents span{
+	background-color:rgba(176,85,195,0.17);
+}
+
+#icon-cart-contents span{
+	background-color:rgba(176,85,195,0.17);
+}
+
+.extras-menu .buttons a{
+	background-color:rgba(176,85,195,0.17);
+}
+
+#topbar .topbar-sidebar{
+	background-color:rgba(0, 0, 0, 0);
+	height:34px;
+}
+
+#topbar{
+	background-color:rgba(242,139,139,0.39);
+	height:33px;
+	animation-fill-mode:both;
+	animation-iteration-count:2;
+}
+
+#topbar.yp_onscreen{
+	animation-delay:0s;
+	animation-duration:0.5s;
+	animation-name:none;
+}
+
+#topbar a i{
+	position:relative;
+	top:-9px;
+}
+
+#topbar a span{
+	position:relative;
+	top:-9px;
+}
+
+#top-promotion .promo-inner{
+	position:relative;
+	left:80px;
+}
+
+#colophon .footer-widgets{
+	height:141px;
+}
+
+#top-promotion .promo-link a{
+	background-color:rgba(242,84,84,0.87);
+}
+
+@media (min-width:991px){
+
+	#colophon .footer-widgets{
+		padding-bottom:0px;
+	}
+	
+}

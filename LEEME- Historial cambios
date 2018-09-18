@@ -1,0 +1,8 @@
+/*AGJ 01/09/2018
+
+ARCHIVO añadido	-- /opt/lampp/htdocs/whataloc/wp-content/plugins/dc-woocommerce-multi-vendor/class-wcmp-vendor-hooks.php
+MODIFICACIÖN    -- Para eliminar error al añadir producto en escritorio de vendedor, comenta las siguientes lineas:	
+			371, 372, 373
+			446, 447, 448
+		
+*/

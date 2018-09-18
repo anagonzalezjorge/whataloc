@@ -1,0 +1,32 @@
+/*
+Theme Name: Martfury Child
+Theme URI: http://drfuri.com/unero
+Author: DrFuri
+Author URI: http://drfuri.com
+Description: Martfury Child Theme.
+Version: 1.0
+License: GNU General Public License v2+
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: martfury
+Domain Path: /lang/
+Tags: one-column, two-columns, left-sidebar, right-sidebar, full-width-template, post-formats, theme-options, threaded-comments, translation-ready
+Template: martfury
+*/
+@import url("../martfury/style.css");
+
+
+.site-header .product-extra-search .search-submit {
+  float: right;
+  height: 42px;
+  line-height: 42px;
+  padding-left: 20px;
+  padding-right: 20px;
+  min-width: 100px;
+  padding-top: 0;
+  padding-bottom: 0;
+  background-color: #f28b8b;
+  border: none;
+  font-weight: 700;
+  color: #000;
+  border-radius: 0 5px 5px 0;
+}

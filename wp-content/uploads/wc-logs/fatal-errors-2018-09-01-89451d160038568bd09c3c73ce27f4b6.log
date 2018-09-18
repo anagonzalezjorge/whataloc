@@ -1,0 +1,110 @@
+2018-09-01T09:39:02+00:00 CRITICAL Uncaught Error: Call to undefined function wp_enqueue_editor() in /opt/lampp/htdocs/whataloc/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-vendor-hooks.php:447
+Stack trace:
+#0 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(298): WCMp_Vendor_Hooks->wcmp_vendor_dashboard_add_product_endpoint('')
+#1 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#2 /opt/lampp/htdocs/whataloc/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/whataloc/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-vendor-hooks.php(252): do_action('wcmp_vendor_das...', '')
+#4 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(298): WCMp_Vendor_Hooks->wcmp_create_vendor_dashboard_content('')
+#5 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#6 /opt/lampp/htdocs/whataloc/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /opt/lampp/htdocs/whataloc/wp-content/plugins
+
+2018-09-01T09:43:07+00:00 CRITICAL Uncaught Error: Call to undefined function wp_enqueue_editor() in /opt/lampp/htdocs/whataloc/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-vendor-hooks.php:447
+Stack trace:
+#0 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(298): WCMp_Vendor_Hooks->wcmp_vendor_dashboard_add_product_endpoint('')
+#1 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#2 /opt/lampp/htdocs/whataloc/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/whataloc/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-vendor-hooks.php(252): do_action('wcmp_vendor_das...', '')
+#4 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(298): WCMp_Vendor_Hooks->wcmp_create_vendor_dashboard_content('')
+#5 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#6 /opt/lampp/htdocs/whataloc/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /opt/lampp/htdocs/whataloc/wp-content/plugins
+
+2018-09-01T09:44:10+00:00 CRITICAL Uncaught Error: Call to undefined function wp_enqueue_editor() in /opt/lampp/htdocs/whataloc/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-vendor-hooks.php:447
+Stack trace:
+#0 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(298): WCMp_Vendor_Hooks->wcmp_vendor_dashboard_add_product_endpoint('')
+#1 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#2 /opt/lampp/htdocs/whataloc/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/whataloc/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-vendor-hooks.php(252): do_action('wcmp_vendor_das...', '')
+#4 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(298): WCMp_Vendor_Hooks->wcmp_create_vendor_dashboard_content('')
+#5 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#6 /opt/lampp/htdocs/whataloc/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /opt/lampp/htdocs/whataloc/wp-content/plugins
+
+2018-09-01T09:48:29+00:00 CRITICAL Uncaught Error: Call to undefined function wp_enqueue_editor() in /opt/lampp/htdocs/whataloc/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-vendor-hooks.php:447
+Stack trace:
+#0 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(298): WCMp_Vendor_Hooks->wcmp_vendor_dashboard_add_product_endpoint('')
+#1 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#2 /opt/lampp/htdocs/whataloc/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/whataloc/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-vendor-hooks.php(252): do_action('wcmp_vendor_das...', '')
+#4 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(298): WCMp_Vendor_Hooks->wcmp_create_vendor_dashboard_content('')
+#5 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#6 /opt/lampp/htdocs/whataloc/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /opt/lampp/htdocs/whataloc/wp-content/plugins
+
+2018-09-01T09:49:44+00:00 CRITICAL Uncaught Error: Call to undefined function wp_enqueue_editor() in /opt/lampp/htdocs/whataloc/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-vendor-hooks.php:447
+Stack trace:
+#0 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(298): WCMp_Vendor_Hooks->wcmp_vendor_dashboard_add_product_endpoint('')
+#1 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#2 /opt/lampp/htdocs/whataloc/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/whataloc/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-vendor-hooks.php(252): do_action('wcmp_vendor_das...', '')
+#4 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(298): WCMp_Vendor_Hooks->wcmp_create_vendor_dashboard_content('')
+#5 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#6 /opt/lampp/htdocs/whataloc/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /opt/lampp/htdocs/whataloc/wp-content/plugins
+
+2018-09-01T09:49:51+00:00 CRITICAL Uncaught Error: Call to undefined function wp_enqueue_editor() in /opt/lampp/htdocs/whataloc/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-vendor-hooks.php:447
+Stack trace:
+#0 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(298): WCMp_Vendor_Hooks->wcmp_vendor_dashboard_add_product_endpoint('')
+#1 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#2 /opt/lampp/htdocs/whataloc/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/whataloc/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-vendor-hooks.php(252): do_action('wcmp_vendor_das...', '')
+#4 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(298): WCMp_Vendor_Hooks->wcmp_create_vendor_dashboard_content('')
+#5 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#6 /opt/lampp/htdocs/whataloc/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /opt/lampp/htdocs/whataloc/wp-content/plugins
+
+2018-09-01T09:51:01+00:00 CRITICAL Uncaught Error: Call to undefined function wp_enqueue_editor() in /opt/lampp/htdocs/whataloc/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-vendor-hooks.php:447
+Stack trace:
+#0 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(298): WCMp_Vendor_Hooks->wcmp_vendor_dashboard_add_product_endpoint('')
+#1 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#2 /opt/lampp/htdocs/whataloc/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/whataloc/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-vendor-hooks.php(252): do_action('wcmp_vendor_das...', '')
+#4 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(298): WCMp_Vendor_Hooks->wcmp_create_vendor_dashboard_content('')
+#5 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#6 /opt/lampp/htdocs/whataloc/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /opt/lampp/htdocs/whataloc/wp-content/plugins
+
+2018-09-01T09:52:53+00:00 CRITICAL Uncaught Error: Call to undefined function wp_enqueue_editor() in /opt/lampp/htdocs/whataloc/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-vendor-hooks.php:447
+Stack trace:
+#0 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(298): WCMp_Vendor_Hooks->wcmp_vendor_dashboard_add_product_endpoint('')
+#1 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#2 /opt/lampp/htdocs/whataloc/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/whataloc/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-vendor-hooks.php(252): do_action('wcmp_vendor_das...', '')
+#4 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(298): WCMp_Vendor_Hooks->wcmp_create_vendor_dashboard_content('')
+#5 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#6 /opt/lampp/htdocs/whataloc/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /opt/lampp/htdocs/whataloc/wp-content/plugins
+
+2018-09-01T10:01:13+00:00 CRITICAL Uncaught Error: Call to undefined function wp_enqueue_editor() in /opt/lampp/htdocs/whataloc/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-vendor-hooks.php:447
+Stack trace:
+#0 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(298): WCMp_Vendor_Hooks->wcmp_vendor_dashboard_add_product_endpoint('')
+#1 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#2 /opt/lampp/htdocs/whataloc/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/whataloc/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-vendor-hooks.php(252): do_action('wcmp_vendor_das...', '')
+#4 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(298): WCMp_Vendor_Hooks->wcmp_create_vendor_dashboard_content('')
+#5 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#6 /opt/lampp/htdocs/whataloc/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /opt/lampp/htdocs/whataloc/wp-content/plugins
+
+2018-09-01T10:01:16+00:00 CRITICAL Uncaught Error: Call to undefined function wp_enqueue_editor() in /opt/lampp/htdocs/whataloc/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-vendor-hooks.php:447
+Stack trace:
+#0 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(298): WCMp_Vendor_Hooks->wcmp_vendor_dashboard_add_product_endpoint('')
+#1 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#2 /opt/lampp/htdocs/whataloc/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/whataloc/wp-content/plugins/dc-woocommerce-multi-vendor/classes/class-wcmp-vendor-hooks.php(252): do_action('wcmp_vendor_das...', '')
+#4 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(298): WCMp_Vendor_Hooks->wcmp_create_vendor_dashboard_content('')
+#5 /opt/lampp/htdocs/whataloc/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#6 /opt/lampp/htdocs/whataloc/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /opt/lampp/htdocs/whataloc/wp-content/plugins
+
